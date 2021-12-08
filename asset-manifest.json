@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-shopping-cart/static/css/main.c9f87eea.chunk.css",
+    "main.js": "/my-shopping-cart/static/js/main.38191248.chunk.js",
+    "main.js.map": "/my-shopping-cart/static/js/main.38191248.chunk.js.map",
+    "runtime-main.js": "/my-shopping-cart/static/js/runtime-main.0d0f8e95.js",
+    "runtime-main.js.map": "/my-shopping-cart/static/js/runtime-main.0d0f8e95.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/my-shopping-cart/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.2591b67b.chunk.js": "/my-shopping-cart/static/js/2.2591b67b.chunk.js",
+    "static/js/2.2591b67b.chunk.js.map": "/my-shopping-cart/static/js/2.2591b67b.chunk.js.map",
+    "index.html": "/my-shopping-cart/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/my-shopping-cart/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.c9f87eea.chunk.css.map": "/my-shopping-cart/static/css/main.c9f87eea.chunk.css.map",
+    "static/js/2.2591b67b.chunk.js.LICENSE.txt": "/my-shopping-cart/static/js/2.2591b67b.chunk.js.LICENSE.txt",
+    "static/media/Checken.659d72c7.jpg": "/my-shopping-cart/static/media/Checken.659d72c7.jpg",
+    "static/media/caramellocake.473dd48a.jpeg": "/my-shopping-cart/static/media/caramellocake.473dd48a.jpeg",
+    "static/media/chocolate.dce91769.jpg": "/my-shopping-cart/static/media/chocolate.dce91769.jpg",
+    "static/media/chocolatecake.8dcdc6e7.jpg": "/my-shopping-cart/static/media/chocolatecake.8dcdc6e7.jpg",
+    "static/media/eygpt-koshary.26784971.jpg": "/my-shopping-cart/static/media/eygpt-koshary.26784971.jpg",
+    "static/media/fish.d6662749.jpg": "/my-shopping-cart/static/media/fish.d6662749.jpg",
+    "static/media/frenchfries.bc9bd7be.jpg": "/my-shopping-cart/static/media/frenchfries.bc9bd7be.jpg",
+    "static/media/icecream.6e4cbfaf.jpg": "/my-shopping-cart/static/media/icecream.6e4cbfaf.jpg",
+    "static/media/pizza.26181dcf.jpg": "/my-shopping-cart/static/media/pizza.26181dcf.jpg",
+    "static/media/rice.d5c7b7b4.jpg": "/my-shopping-cart/static/media/rice.d5c7b7b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d0f8e95.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.2591b67b.chunk.js",
+    "static/css/main.c9f87eea.chunk.css",
+    "static/js/main.38191248.chunk.js"
+  ]
+}
